@@ -14,7 +14,7 @@ The most common examples of these include statistics like mean, median, interqua
 
 These statistics can **concisely describe aspects of your data** to inform your own work and to **share information about your data with others**. 
 
-![](/chart.png)
+![Types of descriptive statistics](/content/chart.png)
 <br/>
 
 *Bhandari, P. (2023, January 09). Descriptive Statistics. Definitions, Types, Examples. Scribbr. Retrieved March 6, 2023, from https://www.scribbr.com/statistics/descriptive-statistics/*<br/>

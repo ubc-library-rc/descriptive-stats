@@ -7,10 +7,10 @@ has_toc: false
 ---
 
 # Workshop Content
-
+<br/>
 Please download the following file for our workshop today: 
 
-[NA]()
+[Not yet available]()
 
 The file with answers is available here: 
 
