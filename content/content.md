@@ -14,4 +14,4 @@ Please download the following file for our workshop today:
 
 The file with answers is available here: 
 
-[Workshop file with answers](/Descriptive_Stats_Answers.Rmd)
+[Workshop file with answers](Descriptive_Stats_Answers.Rmd)
