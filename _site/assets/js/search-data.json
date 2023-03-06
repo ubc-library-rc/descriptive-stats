@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Workshop content",
     "title": "Workshop Content",
-    "content": " ",
+    "content": "Please download the following file for our workshop today: . NA . The file with answers is available here: . Workshop file with answers . ",
     "url": "http://localhost:4000/content/content.html#workshop-content",
     "relUrl": "/content/content.html#workshop-content"
   },"4": {
@@ -36,26 +36,26 @@
     "relUrl": "/content/datatypes.html"
   },"6": {
     "doc": "Outline",
-    "title": "Note: this workshop is in development and not yet complete.",
-    "content": "Description… . ",
-    "url": "http://localhost:4000/#note-this-workshop-is-in-development-and-not-yet-complete",
-    "relUrl": "/#note-this-workshop-is-in-development-and-not-yet-complete"
+    "title": "Welcome to Decriptive Statistics in R",
+    "content": "Through this workshop, we hope to equip you with the skills to summarize your data (quantitatiavely and visually) to share with others, learn more about your data, and inform your analyses. ",
+    "url": "http://localhost:4000/#welcome-to-decriptive-statistics-in-r",
+    "relUrl": "/#welcome-to-decriptive-statistics-in-r"
   },"7": {
     "doc": "Outline",
     "title": "Learning objectives",
-    "content": "At the end of this workshop, you will be able to: 1. 2. 3. ",
+    "content": "At the end of this workshop, you will be able to: . | Understand the types of descriptive statistics available in base R | Use packages to generatre descriptive statistics tables | Create desctiptive plots | Manipulate data to describe your data | . ",
     "url": "http://localhost:4000/#learning-objectives",
     "relUrl": "/#learning-objectives"
   },"8": {
     "doc": "Outline",
     "title": "Schedule",
-    "content": "| 0:00 | Welcome and using Zoom | . | 0:05 | Introduction | . | 0:15 |   | . | 0:30 |   | . | 0:45 |   | . | 1:00 | Wrap-up and Discussion | . ",
+    "content": "| 0:00 | Welcome and using Zoom | . | 0:05 | Introduction | . | 0:10 | Working through tutorial code in RStusdio | . | 0:40 | Practice | . | 0:55 | Wrap-up and Discussion | . | 1:00 | Optional 30 minute question period | . ",
     "url": "http://localhost:4000/#schedule",
     "relUrl": "/#schedule"
   },"9": {
     "doc": "Outline",
     "title": "Resources",
-    "content": ". | [eg. link to external slides] | . ",
+    "content": ". | Article on descriptive statistics | Base R cheat sheet | . ",
     "url": "http://localhost:4000/#resources",
     "relUrl": "/#resources"
   },"10": {
@@ -67,7 +67,7 @@
   },"11": {
     "doc": "Workshop",
     "title": "Introduction",
-    "content": "Welcome to our workshop on descriptive statistics in R! . Descriptive statistics are a useful tool for anyone who works with data. They allow you to describe and visualize your data to better understand them, preliminarily investigate patterns and relationships, and inform statistical analyses. The most common examples of these include statistics like mean, median, interquartile range, and more. We will be going through these . These statistics can concisely describe aspects of your data to inform your own work and to share information about your data with others. Bhandari, P. (2023, January 09). Descriptive Statistics. Definitions, Types, Examples. Scribbr. Retrieved March 6, 2023, from https://www.scribbr.com/statistics/descriptive-statistics/ . This workshop assumes a basic understanding of R language, but all learners are welcome to participate. ",
+    "content": "Descriptive statistics are a useful tool for anyone who works with data. They allow you to describe and visualize your data to better understand them, preliminarily investigate patterns and relationships, and inform statistical analyses. The most common examples of these include statistics like mean, median, interquartile range, and more. We will be going through these . These statistics can concisely describe aspects of your data to inform your own work and to share information about your data with others. Bhandari, P. (2023, January 09). Descriptive Statistics. Definitions, Types, Examples. Scribbr. Retrieved March 6, 2023, from https://www.scribbr.com/statistics/descriptive-statistics/ . This workshop assumes a basic understanding of R language, but all learners are welcome to participate. ",
     "url": "http://localhost:4000/content/introduction.html#introduction",
     "relUrl": "/content/introduction.html#introduction"
   },"12": {
