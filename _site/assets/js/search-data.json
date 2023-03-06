@@ -1,0 +1,110 @@
+{"0": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "Welcome to our workshop on descriptive statistics in R. Descriptive statistics are a useful tool for anyone who works with data. They allow you to describe and visualize your data to better understand them, preliminarily investigate patterns and relationships, and inform statistical analyses. The most common examples of these include statistics like mean, median, interquartile range, and more. We will be going through these . These statistics can concisely describe aspects of your data to inform your own work and to share information about your data with others. This workshop assumes a basic understanding of R language, but all learners are welcome to participate. ",
+    "url": "http://localhost:4000/content/Intro.html",
+    "relUrl": "/content/Intro.html"
+  },"1": {
+    "doc": "Acknowledgements",
+    "title": "Acknowledgements",
+    "content": "Site template adapted from the just-the-docs Jekyll template created by Patrick Marsceil and available under the MIT License. ",
+    "url": "http://localhost:4000/acknowledgements.html",
+    "relUrl": "/acknowledgements.html"
+  },"2": {
+    "doc": "Conclusion",
+    "title": "Conclusions",
+    "content": " ",
+    "url": "http://localhost:4000/content/conclusion.html#conclusions",
+    "relUrl": "/content/conclusion.html#conclusions"
+  },"3": {
+    "doc": "Conclusion",
+    "title": "Conclusion",
+    "content": " ",
+    "url": "http://localhost:4000/content/conclusion.html",
+    "relUrl": "/content/conclusion.html"
+  },"4": {
+    "doc": "Workshop content",
+    "title": "Workshop Content",
+    "content": " ",
+    "url": "http://localhost:4000/content/content.html#workshop-content",
+    "relUrl": "/content/content.html#workshop-content"
+  },"5": {
+    "doc": "Workshop content",
+    "title": "Workshop content",
+    "content": " ",
+    "url": "http://localhost:4000/content/content.html",
+    "relUrl": "/content/content.html"
+  },"6": {
+    "doc": "Data types",
+    "title": "Data types",
+    "content": " ",
+    "url": "http://localhost:4000/content/datatypes.html",
+    "relUrl": "/content/datatypes.html"
+  },"7": {
+    "doc": "Outline",
+    "title": "Note: this workshop is in development and not yet complete.",
+    "content": "Description… . ",
+    "url": "http://localhost:4000/#note-this-workshop-is-in-development-and-not-yet-complete",
+    "relUrl": "/#note-this-workshop-is-in-development-and-not-yet-complete"
+  },"8": {
+    "doc": "Outline",
+    "title": "Learning objectives",
+    "content": "At the end of this workshop, you will be able to: 1. 2. 3. ",
+    "url": "http://localhost:4000/#learning-objectives",
+    "relUrl": "/#learning-objectives"
+  },"9": {
+    "doc": "Outline",
+    "title": "Schedule",
+    "content": "| 0:00 | Welcome and using Zoom | . | 0:05 | Introduction | . | 0:15 |   | . | 0:30 |   | . | 0:45 |   | . | 1:00 | Wrap-up and Discussion | . ",
+    "url": "http://localhost:4000/#schedule",
+    "relUrl": "/#schedule"
+  },"10": {
+    "doc": "Outline",
+    "title": "Resources",
+    "content": ". | [eg. link to external slides] | . ",
+    "url": "http://localhost:4000/#resources",
+    "relUrl": "/#resources"
+  },"11": {
+    "doc": "Outline",
+    "title": "Outline",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"12": {
+    "doc": "Workshop",
+    "title": "Introduction",
+    "content": "Placeholder for first page of lesson . ",
+    "url": "http://localhost:4000/content/introduction.html#introduction",
+    "relUrl": "/content/introduction.html#introduction"
+  },"13": {
+    "doc": "Workshop",
+    "title": "Workshop",
+    "content": " ",
+    "url": "http://localhost:4000/content/introduction.html",
+    "relUrl": "/content/introduction.html"
+  },"14": {
+    "doc": "Land acknowledgement",
+    "title": "Land acknowledgement",
+    "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. The UBC Vancouver campus is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) peoples. Map of Musqueam territory from Native Land Digital . Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
+    "url": "http://localhost:4000/land-acknowledgement.html",
+    "relUrl": "/land-acknowledgement.html"
+  },"15": {
+    "doc": "Participating online",
+    "title": "Participating online",
+    "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
+    "url": "http://localhost:4000/online.html",
+    "relUrl": "/online.html"
+  },"16": {
+    "doc": "Participating online",
+    "title": "Reactions menu",
+    "content": "Open the Reactions menu and click an icon to communicate with the instructors. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
+    "url": "http://localhost:4000/online.html#reactions-menu",
+    "relUrl": "/online.html#reactions-menu"
+  },"17": {
+    "doc": "Participating online",
+    "title": "Chat window",
+    "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
+    "url": "http://localhost:4000/online.html#chat-window",
+    "relUrl": "/online.html#chat-window"
+  }
+}
