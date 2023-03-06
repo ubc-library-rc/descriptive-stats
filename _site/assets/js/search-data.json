@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Conclusions",
     "title": "Conclusions",
-    "content": "Descriptive statistics are a useful tool to understand, share, and investigate your data, both numerically and visually. If you are interested in learning more on coding in R, we offer a number of workshops throughout the year: Workshops . We also offer one-on-one consulations for solutions to specific challenged you are facing: Consultations . We now have an optional 30 minute question period if you want to learn more or continue practicing. ",
+    "content": "Descriptive statistics are a useful tool to understand, share, and investigate your data, both numerically and visually. If you are interested in learning more on coding in R, we offer a number of workshops throughout the year: Workshops . We also offer one-on-one consulations for solutions to specific challenges you are facing: Consultations . We now have an optional 30 minute question period if you want to learn more or continue practicing. ",
     "url": "http://localhost:4000/content/conclusion.html",
     "relUrl": "/content/conclusion.html"
   },"2": {
@@ -37,7 +37,7 @@
   },"6": {
     "doc": "Outline",
     "title": "Learning objectives",
-    "content": "At the end of this workshop, you will be able to: . | Understand the types of descriptive statistics available in base R | Use packages to generatre descriptive statistics tables | Create desctiptive plots | Manipulate data to describe your data | . ",
+    "content": "At the end of this workshop, you will be able to: . | Understand the types of descriptive statistics available in base R | Use packages to generatre descriptive statistics tables | Create descriptive plots | Manipulate data to describe your data | . ",
     "url": "http://localhost:4000/#learning-objectives",
     "relUrl": "/#learning-objectives"
   },"7": {

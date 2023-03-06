@@ -12,6 +12,6 @@ has_toc: false
 
 If you are interested in learning more on coding in R, we offer a number of workshops throughout the year: [Workshops](https://researchcommons.library.ubc.ca/workshops/)
 
-We also offer one-on-one consulations for solutions to specific challenged you are facing: [Consultations](https://researchcommons.library.ubc.ca/consultation-requests/)
+We also offer one-on-one consulations for solutions to specific challenges you are facing: [Consultations](https://researchcommons.library.ubc.ca/consultation-requests/)
 
 We now have an optional 30 minute question period if you want to learn more or continue practicing. 

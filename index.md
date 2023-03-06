@@ -13,14 +13,14 @@ Through this workshop, we hope to equip you with the skills to summarize your da
 At the end of this workshop, you will be able to:
 1. Understand the types of descriptive statistics available in base R 
 2. Use packages to generatre descriptive statistics tables
-3. Create desctiptive plots 
+3. Create descriptive plots 
 4. Manipulate data to describe your data 
 
 ## Schedule
 
-| 0:00 | Welcome and using Zoom|
+| 0:00 | Welcome and using Zoom |
 | 0:05 | Introduction |  
-| 0:10 | Working through tutorial code in RStusdio|
+| 0:10 | Working through tutorial code in RStusdio |
 | 0:40 | Practice |   
 | 0:55 | Wrap-up and Discussion |
 | 1:00 | Optional 30 minute question period |
