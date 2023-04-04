@@ -25,7 +25,7 @@ Please not we expect some level of R experience to participate. We do however we
 | 0:10 | Working through tutorial code in RStudio |
 | 0:40 | Practice |   
 | 0:55 | Wrap-up and Discussion |
-| 1:00 | Optional 30 minute question period |
+| 1:00 | Optional 30 minute question/practice period |
 
 ## Resources
 * [Article on descriptive statistics](https://www.scribbr.com/statistics/descriptive-statistics/)
