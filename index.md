@@ -30,3 +30,4 @@ Please not we expect some level of R experience to participate. We do however we
 ## Resources
 * [Article on descriptive statistics](https://www.scribbr.com/statistics/descriptive-statistics/)
 * [Base R cheat sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+* [gtsummary tutorial](https://www.danieldsjoberg.com/gtsummary/articles/tbl_summary.html)
