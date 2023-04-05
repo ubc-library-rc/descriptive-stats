@@ -4,7 +4,7 @@ title: Outline
 nav_order: 1
 ---
 
-# Welcome to Decriptive Statistics in R 
+# Welcome to Descriptive Statistics in R 
 
 Through this workshop, we hope to equip you with the skills to summarize your data  (quantitatiavely and visually) to share with others, learn more about your data, and inform your analyses. 
 
