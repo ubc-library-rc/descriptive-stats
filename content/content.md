@@ -10,7 +10,7 @@ has_toc: false
 <br/>
 Please download the following file for our workshop today: 
 
-[Not yet available]()
+[Workshop file](Descriptive_Stats.Rmd)
 
 The file with answers is available here: 
 
