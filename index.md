@@ -16,7 +16,7 @@ At the end of this workshop, you will be able to:
 3. Create descriptive plots 
 4. Manipulate data to describe your data 
 
-Please not we expect some level of R experience to participate. We do however welcome all learners to follow along and take what they can from this workshop. Some basic statistics knowledge is also expected but the focus of this workshop is on coding. 
+***This workshop assumes a basic understanding of R language, but all learners are welcome to participate.***
 
 ## Schedule
 
