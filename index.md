@@ -8,6 +8,12 @@ nav_order: 1
 
 Through this workshop, we hope to equip you with the skills to summarize your data  (quantitatiavely and visually) to share with others, learn more about your data, and inform your analyses.
 
+***This workshop assumes a basic understanding of R language, but all learners are welcome to participate.***
+
+If you are interested in learning more on coding in R, we offer a number of workshops throughout the year: [Workshops](https://researchcommons.library.ubc.ca/workshops/).
+
+Workshop materials are available at [https://ubc-library-rc.github.io/](https://ubc-library-rc.github.io/).
+
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
@@ -16,9 +22,7 @@ At the end of this workshop, you will be able to:
 3. Create descriptive plots
 4. Manipulate data to describe your data
 
-***This workshop assumes a basic understanding of R language, but all learners are welcome to participate.***
-If you are interested in learning more on coding in R, we offer a number of workshops throughout the year: [Workshops](https://researchcommons.library.ubc.ca/workshops/)
-Workshop materials are available at [https://ubc-library-rc.github.io/](https://ubc-library-rc.github.io/).
+
 
 
 ## Schedule
